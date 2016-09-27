@@ -6,3 +6,5 @@ Description:
 
 * `aarch64-mysql`       : ARM64 MySQL
 
+* `aarch64-apache`      : ARM64 Apache2 with SSL support
+
