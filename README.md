@@ -12,4 +12,6 @@ Description:
 
 * ``aarch64-apache-php-django``  : ARM64 Apache2 with SSL, PHP, Python3, Django support
 
+* ``aarch64-php-django-svn``     : ARM64 Apache2 with SSL, PHP, Python3, Django, SVN support
+
 * ``aarch64-phpmyadmin``         : ARM64 phpMyAdmin 
